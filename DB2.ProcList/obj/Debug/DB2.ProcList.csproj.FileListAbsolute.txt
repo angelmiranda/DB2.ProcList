@@ -1,0 +1,14 @@
+C:\Users\angel.miranda\Desktop\TTM Solutions\DB2.ProcList\DB2.ProcList\bin\Debug\DB2.ProcList.exe.config
+C:\Users\angel.miranda\Desktop\TTM Solutions\DB2.ProcList\DB2.ProcList\bin\Debug\DB2.ProcList.exe
+C:\Users\angel.miranda\Desktop\TTM Solutions\DB2.ProcList\DB2.ProcList\bin\Debug\DB2.ProcList.pdb
+C:\Users\angel.miranda\Desktop\TTM Solutions\DB2.ProcList\DB2.ProcList\bin\Debug\IBM.Data.DB2.dll
+C:\Users\angel.miranda\Desktop\TTM Solutions\DB2.ProcList\DB2.ProcList\bin\Debug\IBM.Data.DB2.Entity.dll
+C:\Users\angel.miranda\Desktop\TTM Solutions\DB2.ProcList\DB2.ProcList\obj\Debug\DB2.ProcList.csprojAssemblyReference.cache
+C:\Users\angel.miranda\Desktop\TTM Solutions\DB2.ProcList\DB2.ProcList\obj\Debug\DB2.ProcList.Form1.resources
+C:\Users\angel.miranda\Desktop\TTM Solutions\DB2.ProcList\DB2.ProcList\obj\Debug\DB2.ProcList.Properties.Resources.resources
+C:\Users\angel.miranda\Desktop\TTM Solutions\DB2.ProcList\DB2.ProcList\obj\Debug\DB2.ProcList.csproj.GenerateResource.cache
+C:\Users\angel.miranda\Desktop\TTM Solutions\DB2.ProcList\DB2.ProcList\obj\Debug\DB2.ProcList.exe.licenses
+C:\Users\angel.miranda\Desktop\TTM Solutions\DB2.ProcList\DB2.ProcList\obj\Debug\DB2.ProcList.csproj.CoreCompileInputs.cache
+C:\Users\angel.miranda\Desktop\TTM Solutions\DB2.ProcList\DB2.ProcList\obj\Debug\DB2.ProcList.csproj.CopyComplete
+C:\Users\angel.miranda\Desktop\TTM Solutions\DB2.ProcList\DB2.ProcList\obj\Debug\DB2.ProcList.exe
+C:\Users\angel.miranda\Desktop\TTM Solutions\DB2.ProcList\DB2.ProcList\obj\Debug\DB2.ProcList.pdb
