@@ -54,7 +54,7 @@ namespace DB2.ProcList
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.Message);
+                MessageBox.Show("Error connecting database: \n" + ex.Message);
                 return null;
             }
         }
@@ -68,7 +68,10 @@ namespace DB2.ProcList
                 string env = allEnvsList.SelectedItem.ToString();
 
                 spListView.DataSource = connectAndExecute(query, env);
-                spListView.Columns[0].AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill;
+                if (spListView.ColumnCount > 0)
+                {
+                    spListView.Columns[0].AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill;
+                }
             }
             catch (Exception ex)
             {
